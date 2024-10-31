@@ -28,6 +28,5 @@ public class SearchNilai02 {
             System.out.println("Nilai yang dicari tidak ditemukan.");
         }
 
-        sc.close();
     }
 }
